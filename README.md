@@ -20,12 +20,6 @@ layers in PyTorch.
 - Exploring the integration of transformers into existing pipelines to 
 enhance performance.
 
-📫 How to Reach Me:
-Feel free to connect or reach out if you're interested in collaborating or 
-just want to chat about AI and machine learning!
-
-- Email: erenalpcet@gmail.com
-
 ⚙️ Technologies & Tools:
 - Programming Languages: Python, C++
 - Frameworks: PyTorch, TensorFlow, Hugging Face Transformers
